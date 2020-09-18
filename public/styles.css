@@ -45,6 +45,7 @@ body {
   justify-content: space-between;
 }
 
+
 @keyframes fade {
   from {
     opacity: 0;
